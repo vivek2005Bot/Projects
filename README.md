@@ -1,4 +1,5 @@
-# A* Algorithm for Pathfinding in a Maze  
+# Path Finding Algorithms Projects
+## A* Algorithm for Pathfinding in a Maze  
 
 ## 📌 Project Overview  
 This project implements the **A\* Algorithm**, a powerful pathfinding and graph traversal algorithm, to navigate through a maze. The algorithm efficiently determines the shortest path from a starting point to a goal by combining actual distance traveled (g-score) and heuristic estimates (h-score).  
